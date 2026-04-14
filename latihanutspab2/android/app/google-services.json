@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "533213828413",
+    "firebase_url": "https://latihanutspab2-30d6f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "latihanutspab2-30d6f",
+    "storage_bucket": "latihanutspab2-30d6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533213828413:android:e43eaef88054c16fba2154",
+        "android_client_info": {
+          "package_name": "com.example.latihanutspab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0DatYfCpDRhiyja2ciKh9YfsskXWEzD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
